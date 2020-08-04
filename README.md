@@ -6,7 +6,7 @@
  :mortar_board:  &nbsp; Estou cursando Ciência da Computação na Unifacs
  <br/> :scroll: &nbsp; Buscando conhecimento sobre Python, I.A, Machine Learning... 
  <br/> :bell: &nbsp; Disposto a ajudar com o possível
- <br/> :computer: &nbsp; Meus conhecimentos: Python | C | Javascript 
+ <br/> :computer: &nbsp; Meus conhecimentos: Python | C 
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games, e longas conversas sobre o universo
  <br/> :email: &nbsp; Entre em contato comigo:
  <br/> [![Linkedin Badge](https://img.shields.io/badge/-ManoelFernandes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manoel-fernandes-b366161ab/)](https://www.linkedin.com/in/manoel-fernandes-b366161ab/)
