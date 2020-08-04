@@ -7,7 +7,7 @@
  <br/> :purple_heart: &nbsp; Buscando conhecimento sobre Python, I.A, Machine Learning... 
  <br/> :bell: &nbsp; Disposto a ajudar com o possível
  <br/> :computer: &nbsp; Meus conhecimentos: Python | C | Javascript 
- <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games 
+ <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games, e longas conversas sobre o universo
  <br/> :email: &nbsp; Entre em contato comigo:
  <br/> [![Linkedin Badge](https://img.shields.io/badge/-ManoelFernandes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manoel-fernandes-b366161ab/)](https://www.linkedin.com/in/manoel-fernandes-b366161ab/)
  <br/> [![Gmail Badge](https://img.shields.io/badge/-manoelfelipefern@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:manoelfelipefern@gmail.com)](mailto:manoelfelipefern@gmail.com) 
