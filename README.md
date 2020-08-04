@@ -4,7 +4,7 @@
  Me chamo Manoel Felipe C. A. Fernandes, 
 
  :mortar_board:  &nbsp; Estou cursando Ciência da Computação na Unifacs
- <br/> :bulb: &nbsp; Buscando conhecimento sobre Python, I.A, Machine Learning... 
+ <br/> :scroll: &nbsp; Buscando conhecimento sobre Python, I.A, Machine Learning... 
  <br/> :bell: &nbsp; Disposto a ajudar com o possível
  <br/> :computer: &nbsp; Meus conhecimentos: Python | C | Javascript 
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games, e longas conversas sobre o universo
