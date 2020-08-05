@@ -5,7 +5,7 @@
 
 - :mortar_board:  &nbsp; I am studying Computer Science at Unifacs
 
-- :scroll: &nbsp; Seeking knowlodge about Python, A.I, Machine Learning... 
+- :scroll: &nbsp; Seeking knowlodge about Python, A.I and Machine Learning 
 
 - :bell: &nbsp; Willing to help with the possible
 
