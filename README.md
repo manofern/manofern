@@ -1,7 +1,7 @@
 
 
 ## Hello World 👋
- My name is Manoel Felipe C. A. Fernandes, I'm from Brazil
+ My name is Manoel Fernandes, I'm from Brazil
 
 - :mortar_board:  &nbsp; I am studying Computer Science at Unifacs
 
