@@ -3,7 +3,7 @@
 ## Hello World 👋
  My name is Manoel Felipe Fernandes, I'm from Brazil
 
-- :mortar_board:  &nbsp; I am studying Computer Science at Unifacs
+- :mortar_board:  &nbsp; Studying Computer Science at Unifacs
 
 - :scroll: &nbsp; Seeking knowlodge about Python, A.I and Machine Learning 
 
