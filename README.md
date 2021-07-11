@@ -9,7 +9,7 @@
 
 - :bell: &nbsp; Willing to help with the possible
 
-- :computer: &nbsp; My knowloges: Python | Java | C 
+- :computer: &nbsp; My knowloges: Python | Java | C++ 
  
 - 💬  &nbsp; About me: Technology enthusiast, love games, and enjoy long conversations about the universe
  
