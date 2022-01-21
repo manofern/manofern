@@ -1,7 +1,7 @@
 
 
 ## Hello World 👋
- My name is Manoel Felipe Fernandes, I'm from Brazil
+ My name is Manoel, I'm from Brazil
  
 💬  &nbsp; Technology enthusiast, love games, and enjoy long conversations about the universe
 
